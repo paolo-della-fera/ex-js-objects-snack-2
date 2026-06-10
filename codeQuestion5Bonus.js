@@ -31,4 +31,4 @@ console.log(hamburger.maker.restaurant.name);      // Hyur's II
 console.log(secondBurger.maker.restaurant.name);   // Hyur's II
 
 
-// per l'secuzione di questo codice sono stati annidati 5 oggetti
+// per l'esecuzione di questo codice sono stati annidati 5 oggetti
