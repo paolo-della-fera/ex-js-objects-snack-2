@@ -6,6 +6,7 @@ const chef = {
 	},
 }
 
+const chefCopia = {...chef}
 // il miglior metodo per clonare l'oggetto "chef" è utilizzare lo spread(...) perchè all'interno c'è una funzione
 
 
@@ -20,4 +21,5 @@ const restaurant = {
 	isOpen: false,
 };
 
+const ristorantCopia = structuredClone(restaurant)
 // il miglior modo per clonare l'oggetto restuarant è utilizzare structuredClone
